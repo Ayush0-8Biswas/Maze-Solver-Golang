@@ -1,1 +1,1 @@
-## Maze Solver with stack and queue implementation in golang
+## Maze Solver using BFS and DFS algorithms
